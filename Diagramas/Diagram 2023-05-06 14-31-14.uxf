@@ -1,0 +1,108 @@
+<diagram program="umletino" version="15.1"><zoom_level>8</zoom_level><element><id>UMLActor</id><coordinates><x>264</x><y>416</y><w>112</w><h>88</h></coordinates><panel_attributes>Técnico de laboratorio</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>224</x><y>736</y><w>80</w><h>88</h></coordinates><panel_attributes>Transportista</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>184</x><y>368</y><w>112</w><h>88</h></coordinates><panel_attributes>Gerente de almacén</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>384</x><y>104</y><w>96</w><h>40</h></coordinates><panel_attributes>Ver envíos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>408</x><y>216</y><w>112</w><h>48</h></coordinates><panel_attributes>Gestionar envíos 
+y paquetes </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>496</x><y>176</y><w>88</w><h>64</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>50;10;10;60</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>536</x><y>160</y><w>80</w><h>40</h></coordinates><panel_attributes>Buscar 
+productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>512</x><y>208</y><w>168</w><h>56</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>190;10;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>504</x><y>240</y><w>160</w><h>40</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>180;25;10;20</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>664</x><y>192</y><w>96</w><h>40</h></coordinates><panel_attributes>Añadir productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>648</x><y>240</y><w>96</w><h>48</h></coordinates><panel_attributes>Visualizar 
+productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>408</x><y>400</y><w>120</w><h>40</h></coordinates><panel_attributes>Gestionar procesos
+y tareas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>552</x><y>512</y><w>112</w><h>40</h></coordinates><panel_attributes>Gestionar productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>448</x><y>312</y><w>80</w><h>104</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>30;10;10;110</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>432</x><y>288</y><w>80</w><h>32</h></coordinates><panel_attributes>Ver tareas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>520</x><y>288</y><w>96</w><h>40</h></coordinates><panel_attributes>Añadir tarea</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>472</x><y>304</y><w>96</w><h>120</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>70;15;18;130</additional_attributes></element><element><id>Relation</id><coordinates><x>512</x><y>400</y><w>136</w><h>48</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>150;10;10;40</additional_attributes></element><element><id>Relation</id><coordinates><x>520</x><y>360</y><w>128</w><h>80</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>140;10;10;77</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>632</x><y>352</y><w>104</w><h>40</h></coordinates><panel_attributes>Eliminar tarea</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>624</x><y>400</y><w>96</w><h>32</h></coordinates><panel_attributes>Modificar tarea</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>216</x><y>600</y><w>96</w><h>96</h></coordinates><panel_attributes>Gerente de calidad
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>648</x><y>520</y><w>216</w><h>40</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>250;10;10;30</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>848</x><y>512</y><w>104</w><h>40</h></coordinates><panel_attributes>Comprobar calidad </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>656</x><y>488</y><w>112</w><h>56</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>120;10;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>832</x><y>440</y><w>64</w><h>56</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>60;10;10;50</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>744</x><y>464</y><w>96</w><h>40</h></coordinates><panel_attributes>Ver compuestos </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>880</x><y>424</y><w>104</w><h>32</h></coordinates><panel_attributes>Comprobar riesgos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>472</x><y>56</y><w>528</w><h>80</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;80;640;10</additional_attributes></element><element><id>Relation</id><coordinates><x>512</x><y>64</y><w>496</w><h>192</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;220;600;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>984</x><y>32</y><w>232</w><h>56</h></coordinates><panel_attributes>Autenticación de usuarios</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>240</x><y>824</y><w>48</w><h>88</h></coordinates><panel_attributes>Usuario</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>80</y><w>720</w><h>800</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;980;820;980;810;10</additional_attributes></element><element><id>Relation</id><coordinates><x>648</x><y>80</y><w>400</w><h>456</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;550;480;10</additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>760</y><w>112</w><h>72</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;120;70</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>376</x><y>792</y><w>136</w><h>48</h></coordinates><panel_attributes>Ver paquetes de productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>504</x><y>80</y><w>656</w><h>752</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;920;740;920;730;10</additional_attributes></element><element><id>Relation</id><coordinates><x>464</x><y>760</y><w>80</w><h>56</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>18;50;20;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>408</x><y>728</y><w>112</w><h>40</h></coordinates><panel_attributes>Mostrar datos 
+del paquete</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>408</x><y>664</y><w>112</w><h>32</h></coordinates><panel_attributes>Gestionar desechos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>672</y><w>144</w><h>96</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;100;160;15</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>392</x><y>848</y><w>96</w><h>32</h></coordinates><panel_attributes>Registrar usuario</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>264</x><y>848</y><w>144</w><h>32</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;20;160;20</additional_attributes></element><element><id>Relation</id><coordinates><x>512</x><y>80</y><w>616</w><h>624</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;735;690;760;690;10</additional_attributes></element><element><id>Relation</id><coordinates><x>512</x><y>680</y><w>80</w><h>56</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>40;50;10;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>536</x><y>712</y><w>96</w><h>32</h></coordinates><panel_attributes>Visualizar rutas 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>472</x><y>632</y><w>240</w><h>48</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>280;10;10;40</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>696</x><y>624</y><w>96</w><h>32</h></coordinates><panel_attributes>Añadir producto</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>456</x><y>608</y><w>128</w><h>72</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>140;10;10;70</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>568</x><y>592</y><w>96</w><h>32</h></coordinates><panel_attributes>Ver desechos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>232</x><y>208</y><w>24</w><h>176</h></coordinates><panel_attributes>lt=-&gt;&gt;</panel_attributes><additional_attributes>10;200;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>784</x><y>80</y><w>312</w><h>576</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;700;300;700;340;10</additional_attributes></element><element><id>Relation</id><coordinates><x>656</x><y>80</y><w>408</w><h>544</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;660;390;660;490;10</additional_attributes></element><element><id>Relation</id><coordinates><x>520</x><y>72</y><w>520</w><h>360</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes><additional_attributes>10;430;290;250;630;10</additional_attributes></element><element><id>UMLActor</id><coordinates><x>176</x><y>136</y><w>112</w><h>88</h></coordinates><panel_attributes>Operario de almacén</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>248</x><y>128</y><w>152</w><h>48</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;40;170;10</additional_attributes></element><element><id>Relation</id><coordinates><x>248</x><y>176</y><w>176</w><h>80</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;200;80</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>416</y><w>104</w><h>48</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;40;110;10</additional_attributes></element><element><id>Relation</id><coordinates><x>328</x><y>456</y><w>240</w><h>88</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;280;90</additional_attributes></element><element><id>Relation</id><coordinates><x>288</x><y>536</y><w>288</w><h>104</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;110;340;10</additional_attributes></element><element><id>Relation</id><coordinates><x>232</x><y>432</y><w>232</w><h>248</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;270;290</additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>632</y><w>152</w><h>72</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;170;65</additional_attributes></element><element><id>Relation</id><coordinates><x>624</x><y>704</y><w>104</w><h>40</h></coordinates><panel_attributes>lt=-&gt;&gt;</panel_attributes><additional_attributes>110;10;10;30</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>712</x><y>696</y><w>136</w><h>32</h></coordinates><panel_attributes>Rutas de 
+inflamables/tóxicos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>616</x><y>728</y><w>200</w><h>40</h></coordinates><panel_attributes>lt=-&gt;&gt;</panel_attributes><additional_attributes>230;30;10;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>800</x><y>736</y><w>88</w><h>32</h></coordinates><panel_attributes>Rutas de 
+especiales</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>648</x><y>760</y><w>136</w><h>32</h></coordinates><panel_attributes>Rutas de inorgánicos 
+y orgánicos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>600</x><y>736</y><w>64</w><h>56</h></coordinates><panel_attributes>lt=-&gt;&gt;</panel_attributes><additional_attributes>60;50;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>424</x><y>88</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-1
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>456</x><y>120</y><w>104</w><h>32</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>110;20;15;20</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>544</x><y>120</y><w>96</w><h>32</h></coordinates><panel_attributes>Buscar envío</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>632</x><y>112</y><w>72</w><h>40</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>70;20;10;30</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>688</x><y>112</y><w>96</w><h>32</h></coordinates><panel_attributes>Mostrar datos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>432</x><y>192</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-2
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>744</x><y>448</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-4.1
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>792</x><y>392</y><w>96</w><h>88</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>100;10;10;90</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>832</x><y>368</y><w>96</w><h>32</h></coordinates><panel_attributes>Mostrar 
+datos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>616</x><y>304</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-3.2
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>696</x><y>336</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-3.3
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>408</x><y>320</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-3.1
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>624</x><y>544</y><w>128</w><h>48</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>140;40;10;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>736</x><y>560</y><w>96</w><h>32</h></coordinates><panel_attributes>Registrar
+calidad</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>776</x><y>544</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-4.3
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>904</x><y>496</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-4.2
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>376</x><y>648</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-5
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>344</x><y>784</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-6
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>696</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-5.2
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>464</y><w>72</w><h>72</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>20;10;10;70</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>544</x><y>432</y><w>96</w><h>40</h></coordinates><panel_attributes>Añadir productos 
+a finalizados</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>368</x><y>392</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-3
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>496</x><y>528</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-4
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>432</x><y>712</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-6.1
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>776</x><y>544</y><w>136</w><h>104</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;110;150;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>520</x><y>584</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-5.1
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>600</x><y>544</y><w>72</w><h>64</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;60;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>336</x><y>848</y><w>56</w><h>16</h></coordinates><panel_attributes>halign=center
+CU-7
+
+
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
